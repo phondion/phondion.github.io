@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phondion.github.io/sitemap.html.gz
+Sitemap: https://phondion.github.io/app/sitemap.html.gz
+Sitemap: https://phondion.github.io/assets/sitemap.html.gz
+Sitemap: https://phondion.github.io/css/sitemap.html.gz
+Sitemap: https://phondion.github.io/includes/sitemap.html.gz
+Sitemap: https://phondion.github.io/item/sitemap.html.gz
+Sitemap: https://phondion.github.io/src/sitemap.html.gz
